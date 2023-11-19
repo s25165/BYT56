@@ -93,4 +93,5 @@ laptop.show();
 electronicDeviceBuilder.construct(smartphoneBuilder);
 const smartphone = smartphoneBuilder.getResult();
 console.log('\nSmartphone:');
+
 smartphone.show();
